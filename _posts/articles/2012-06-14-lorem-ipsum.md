@@ -1,6 +1,6 @@
 ---
 layout: article
-title: The lorem ipsum
+title: Mr John Dorian
 abstract: Curabitur ac ante sit amet elit placerat luctus. Pellentesque quis tellus urna, in euismod mi. Pellentesque ultricies dictum massa, non faucibus ligula iaculis sed.
 author_twitter: _mql
 author: Michael Aufreiter
@@ -9,6 +9,8 @@ categories:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper lacinia purus, id gravida tortor semper et. Mauris quis dolor at quam tincidunt lacinia quis quis nunc. In vulputate nibh at enim ullamcorper adipiscing. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+God, this text editor is beautiful.
 
 
 # Neque porro quisquam
